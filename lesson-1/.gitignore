@@ -1,0 +1,6 @@
+# Ignore the images
+**/*.jpg
+**/*.JPG
+**/*.jpeg
+**/*.jpg!d
+**/*.png

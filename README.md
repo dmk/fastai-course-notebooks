@@ -36,3 +36,7 @@ packages needed.
 
 If you're unsure how to start Jupyter or how to ensure your code can use your GPU, you can
 search online for guides on Jupyter and CUDA.
+
+# List of lessons
+
+* [Lesson 1](./lesson-1/)
