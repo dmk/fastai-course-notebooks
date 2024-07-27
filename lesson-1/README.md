@@ -1,4 +1,4 @@
-# Lesson 1 - Is it a bird?
+# Lesson 1 - Getting started
 
 ## Links:
 
